@@ -108,7 +108,7 @@
 	  "meta": {
 		"serverDescription": "Быстрый. Без рекламы"
 	  }
-	}
+	},
 	{
 	  "dns": {
 		"servers": [
@@ -218,7 +218,7 @@
 	  "meta": {
 		"serverDescription": "Быстрый. Без рекламы"
 	  }
-	}
+	},
 	{
 	  "dns": {
 		"servers": [
@@ -328,7 +328,7 @@
 	  "meta": {
 		"serverDescription": "Быстрый. Без рекламы"
 	  }
-	}
+	},
 	{
 	  "dns": {
 		"servers": [
@@ -438,7 +438,7 @@
 	  "meta": {
 		"serverDescription": "Быстрый. Без рекламы"
 	  }
-	}
+	},
 	{
 	  "dns": {
 		"servers": [
@@ -548,7 +548,7 @@
 	  "meta": {
 		"serverDescription": "Быстрый. Без рекламы"
 	  }
-	}
+	},
 	{
 	  "dns": {
 		"servers": [
@@ -658,7 +658,7 @@
 	  "meta": {
 		"serverDescription": "Через Москву. Работает всё"
 	  }
-	}
+	},
 	{
 	  "dns": {
 		"servers": [
@@ -768,7 +768,7 @@
 	  "meta": {
 		"serverDescription": "Через Москву. Работает всё"
 	  }
-	}
+	},
 	{
 	  "remarks": "🇪🇺 LTE-Авто",
 	  "meta": {
@@ -1873,7 +1873,7 @@
 		  }
 		]
 	  }
-	}
+	},
 	{
 	  "dns": {
 		"servers": [
@@ -1982,7 +1982,7 @@
 	  "meta": {
 		"serverDescription": "Почти все операторы и регионы"
 	  }
-	}
+	},
 	{
 	  "dns": {
 		"servers": [
